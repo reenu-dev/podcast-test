@@ -11,6 +11,6 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: reenu-dev/podcast-test@main
+        uses: reenu-dev/podcast-generator@main
 
   
